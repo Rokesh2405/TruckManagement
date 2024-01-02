@@ -1,0 +1,87 @@
+FileETag None
+# END Turn ETags Off
+
+Options +FollowSymlinks
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond %{SERVER_PORT} 80 
+RewriteCond %{HTTP_HOST} !^www\.
+
+#RewriteCond %{HTTP_HOST} ^api.savemom\.in [NC]
+
+#RewriteRule ^(.*)$ https://geomeoinformatics.com/namkaval/api/$1 [R,L]
+
+#RewriteCond %{HTTP_HOST} ^http://jiovio.com\.com [NC]
+
+#RewriteCond %{HTTP_HOST} ^https://webtoall.in [NC]
+
+#RewriteRule ^(.*)$ http://maduraiscrap.com/appadmin/api/$1 [R,L]
+
+
+RewriteRule ^register user/register.php [L,QSA]
+
+RewriteRule ^register user/register.php [L,QSA]
+
+RewriteRule ^verifyotp user/verifyotp.php [L,QSA]
+
+RewriteRule ^book_ride user/book_ride.php [L,QSA]
+
+RewriteRule ^getprice user/getprice.php [L,QSA]
+
+RewriteRule ^add_rating user/add_rating.php [L,QSA]
+
+RewriteRule ^add_address user/add_address.php [L,QSA]
+
+RewriteRule ^get_address user/get_address.php [L,QSA]
+
+RewriteRule ^faq user/faq.php [L,QSA]
+
+RewriteRule ^getsetting user/getsetting.php [L,QSA]
+
+RewriteRule ^banner common/banner.php [L,QSA]
+
+RewriteRule ^products common/products.php [L,QSA]
+
+RewriteRule ^addcart user/addproduct.php [L,QSA]
+
+RewriteRule ^finalorder user/finalorder.php [L,QSA]
+
+RewriteRule ^cartlist user/cartlist.php [L,QSA]
+
+RewriteRule ^deletecart user/deletecart.php [L,QSA]
+
+RewriteRule ^driverlogin driver/login.php [L,QSA]
+
+RewriteRule ^orders driver/orders.php [L,QSA]
+
+RewriteRule ^setting common/setting.php [L,QSA]
+
+RewriteRule ^cart_calculation driver/cart_calculation.php [L,QSA]
+
+RewriteRule ^customerorder_details driver/order_details.php [L,QSA]
+
+RewriteRule ^sendotp user/sendotp.php [L,QSA]
+
+
+RewriteRule ^payment driver/finalorder.php [L,QSA]
+
+RewriteRule ^myrides user/my_rides.php [L,QSA]
+
+RewriteRule ^confirm_booking driver/confirm_booking.php [L,QSA]
+
+RewriteRule ^booking_details driver/booking_details.php [L,QSA]
+
+RewriteRule ^close_booking driver/close_booking.php [L,QSA]
+
+RewriteRule ^completed_rides driver/driver_rides.php [L,QSA]
+
+RewriteRule ^cancel_booking driver/cancel_booking.php [L,QSA]
+
+RewriteRule ^cancelled_rides driver/cancelled_rides.php [L,QSA]
+
+RewriteRule ^start_trip driver/start_trip.php [L,QSA]
+
+RewriteCond %{THE_REQUEST} !^POST
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d

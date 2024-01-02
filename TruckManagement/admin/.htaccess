@@ -1,0 +1,54 @@
+# BEGIN Turn ETags Off
+<ifModule mod_headers.c>
+  Header unset ETag
+</ifModule>
+FileETag None
+# END Turn ETags Off
+Options +FollowSymlinks
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond %{SERVER_PORT} 80 
+#RewriteCond %{HTTP_HOST} !^www\.
+
+
+RewriteRule ^master/(.*)/editcustomer.htm pages/master/addcustomer.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editsalesman_settlement.htm pages/master/addsalesman_settlement.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editcarrier_settlement.htm pages/master/addcarrier_settlement.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editcustomer_settlement.htm pages/master/addcustomer_settlement.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editinvoice_transaction.htm pages/master/addinvoice_transaction.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editcarrier_confirmation.htm pages/master/addcarrier_confirmation.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editexpense.htm pages/master/addexpense.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editexpenseentry.htm pages/master/addexpenseentry.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editcustomer.htm pages/master/addcustomer.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editsalesman.htm pages/master/addsalesman.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editdelivery.htm pages/master/adddelivery.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editcarrier.htm pages/master/addcarrier.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editpickup.htm pages/master/addpickup.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/editstaff.htm pages/master/addstaff.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*)/settings.htm pages/master/settings.php?banid=$1 [L,QSA]
+
+RewriteRule ^master/(.*).htm pages/master/$1.php [L,QSA]
+
+RewriteRule ^(.*)\.htm $1.php [L,QSA]
+
+
+
+RewriteCond %{THE_REQUEST} !^POST
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+

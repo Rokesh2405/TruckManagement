@@ -1,0 +1,176 @@
+
+<div align="center" style="font-size:20px;"><hr style="color:black;"><strong>CARRIER CONFIRMATION</strong><hr  style="color:black;"></div>
+<div align="center" style="font-size:12px;">59118 Westwood Mall, Mississauga, ON , L4T 4J1 <br>Ph#:905-247-6111 , Fax#: 905-247-5993<br> Mailid#: info@worktogethergroup.ca<br>website#: www.worktogethergroup.ca<hr  style="color:black;">
+</div>
+<div class="center" style="font-size:19px;">
+<strong>Load Number : WT000179</strong>
+</div>
+<br>
+<div class="center">
+Booked By: HARRY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023-03-23 23:31</div>
+<hr style="height:5px;color:black;">
+<table width="80%" align="center" cellpadding="5" cellspacing="0">
+<tr>
+<td width="10%" valign="top">Carrier</td>
+<td valign="top"><strong>WESTRANGE LOGISTICS LTD <br>1462 STRAWLINE HILL ST <br><br>BC1 (Canada),COQUITLAM <br>CANADA<br>V3E OL7</strong></td>
+</tr>
+<tr>
+<td valign="top">Rate</td>
+<td>
+<table width="100%">
+
+<tr> 
+<td>&nbsp;<td>
+<td width="10%">&nbsp;</td>
+<td>800.00</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Currency:   </td>
+<td>CAD</td>
+</tr>
+</table>
+<p><strong>Note:</strong></p>
+<hr style="height:5px;color:black;"><table width="100%">
+<tr>
+<td width="50%">
+<table width="100%" cellpadding="10">
+<tr>
+<td><strong>Pickup At</strong></td>
+<td>Date</td>
+<td>03/24/2023</td>
+<td>08:00</td>
+</tr>
+<tr>
+<td  valign="top">Name</td>
+<td colspan="3"><strong>WASTE CONNECTIONS ( KELOWNA )<br>4-150 CAMPION  STREET ,,BC (Canada),KELOWNA ,CANADA,V1X 7S8<br>BC (Canada)<br>KELOWNA </strong></td>
+</tr>
+<tr>
+<td>Ph#</td>
+<td colspan="3"><strong>(250) 616 - 0942</strong></td>
+</tr>
+<tr>
+<td>Contact#</td>
+<td colspan="3"><strong></strong></td>
+</tr>
+<tr>
+<td colspan="4"><strong>Pickup#:</strong>56824948</td>
+</tr>
+<tr>
+<td>Qty</td>
+<td colspan="2">Description</td>
+<td>Weight</td>
+</tr>
+<tr>
+<td colspan="4"><hr></td>
+</tr>
+<tr>
+<td>FTLSkid</td>
+<td colspan="2">BALES </td>
+<td>44000 LBS </td>
+</tr>
+<tr>
+<td colspan="4">
+<strong style="font-size:12px;">Note : follow the pin point map i send you for delivery</strong></td>
+</tr>
+</table>
+
+</td>
+<td><div style="border-left: 6px solid black;height:800px;"></div></td>
+<td width="50%" valign="top">
+<table width="100%" cellpadding="10">
+<tr>
+<td><strong>Delivery To</strong></td>
+<td>Date</td>
+<td>03/27/2023</td>
+<td>08:00</td>
+</tr>
+<tr>
+<td valign="top">Name</td>
+<td colspan="3"><strong>EMTERRA ENVIROMENT ( VANCOVER )<br>955 W.KENT AVE ,NORTH ,,BC (Canada),VANCOUVER ,CANADA,V6P 2K8<br>BC (Canada)<br>VANCOUVER </strong></td>
+</tr>
+<tr>
+<td>Ph#</td>
+<td colspan="3"><strong>(604) 327 - 7647</strong></td>
+</tr>
+<tr>
+<td>Contact#</td>
+<td colspan="3"><strong></strong></td>
+</tr>
+<tr>
+<td colspan="4"><strong>Del#:</strong></td>
+</tr>
+<tr>
+<td>Qty</td>
+<td colspan="2">Description</td>
+<td>Weight</td>
+</tr>
+<tr>
+<td colspan="4"><hr></td>
+</tr>
+<tr>
+<td>FTLSkid</td>
+<td colspan="2">BALES </td>
+<td>44000 LBS </td>
+</tr>
+<tr>
+<td colspan="4">
+<strong style="font-size:14px;">Note : </strong></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<hr style="height:5px;color:black;">
+<table width="100%" style=" border: 1px solid;">
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Description</strong></td>
+</tr>
+<tr>
+<td colspan="2"><hr style="color:black;"></td>
+</tr>
+<tr>
+<td>Fright</td>
+<td>800.00</td>
+</tr>
+<tr>
+<td colspan="2"><hr style="color:black;"></td>
+</tr>
+<tr>
+<td><strong>Bill Amount</strong></td>
+<td>800.00</td>
+</tr>
+<tr>
+<td><strong>Paid Amount</strong></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><hr style="color:black;"></td>
+</tr>
+<tr>
+<td><strong>Balance Amount</strong></td>
+<td>800.00</td>
+</tr>
+</table>
+<h3>Terms & Conditions</h3>
+<p>WORK TOGETHER GROUP INC DOES ALL PICKUP AND DELIVERY APPOINTMENTS. PLEASE DO NOT CONTACT SHIPPER OR
+CONSIGNEE UNDER ANY CIRCUMSTANCES. Driver must identify himself as Work Togrther Group . Unless mentioned otherwise
+this load is an exclusive FTL (Full Truck Load) shipment and cannot be sent as an LTL (less than truckload) or partial without a written approval of Work Togrther Group or price adjustment will be made.</p>
+<p>Bill to:Work Togrther Group Inc; Submit invoices to Payment terms are Net
+35days with ORIGINAL POD(POD has to be sent within 7 days after delivery or $50 fine will be deducted from the rate) or !! GET PAID QUICKER !! QuickPay @5%. pay in 8 days $50/hour late fee if an appointment missed.</p>
+<p>In case of detention/lumper or any other accessorial charges Work Togrther Group Inc should be notified within 24hours and charges must be pre-approved before billed. Any changes to the pickup, delivery or customs clearance should be preapproved and confrimed by Work Togrther Group Inc. Freight should never be taken in bond without a written approval of Work Togrther Group Inc. In order to claim the detention a BOL with time in/time out signed by the shipper/consignee should be provided within 24 hours after detention occurs. Maximum detention pay is $40/hour or $125/day. Any failure of service or changes to the initial instructions without written notification of Work Togrther Group Inc will be a subject of $300 or more fine.</p>
+<p>Double brokered loads wont be paid.</p>
+<p>Please make sure driver secures the load at the back with 2 loads bars and straps</p>
+<p>Dry Van waiting time starts after 2 hours </p>
+<p>Flatbed waiting starts after 3 hours</p>
+<p>Reefer waiting starts after 3 hours</p>
+<p>Send POD and Invoice at accounts@worktogthergroup.ca</p>
+<p>&nbsp;</p>
+<table width="100%" style=" border: 1px solid;">
+<tr>
+<td><strong>Note : </strong></td>
+</tr>
+</table>

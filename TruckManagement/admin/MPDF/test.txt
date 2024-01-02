@@ -1,0 +1,113 @@
+<br><table style="width:100%; font-family:arial; font-size:18px;">
+    <tr>
+    <td width="10%" valign="top"><img src="../images/kkcarrier.jpeg" width="100"></td>
+    <td  width="40%" align="left" style="padding-right:20px;"><h4>Khuman & Khuman carrier</h4><h5 style="align:right;">60 Lacoste Blvd 
+Unit # 119<br>
+Brampton Ontario<br>
+Canada<br></h5>
+<br>
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center"><strong>Phone #</strong></td>
+<td align="center"><strong>(905) 465- 4041</strong></td>
+</tr>
+</table>
+</td>
+<td  width="50%" align="left" style="padding-right:20px;" align="right" valign="top">
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center"><strong>Date</strong></td>
+<td align="center"><strong>Invoice #</strong></td>
+</tr>
+<tr>
+<td>2022-07-13</td>
+<td>00002</td>
+</tr>
+</table>
+</td>
+    </tr>
+	
+   
+    </table>
+<br><br>
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td width="10%">&nbsp;</td>
+<td width="90%"><table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td align="left"><strong>Invoice To</strong></td>
+</tr>
+<tr>
+<td>ADDRESS1<br>ADDRESS2<br>CITY NAME,<br>CANADA<br>628900</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br><br>
+<table width="95%" align="center" cellpadding="10" cellspacing="0" border="1">
+<tr>
+<th>QTY</th>
+<th>ITEM</th>
+<th>DESCRIPTION</th>
+<th>Rate</th>
+<th>Amount</th>
+</tr><tr>
+  <td>1</td>
+  <td>Container Delivery</td>
+  <td>Ref #<br>ADDRESS1<br>ADDRESS2<br>CITY NAME,<br>CANADA<br>628900</td>
+ <td></td>
+  <td></td>
+  </tr><tr>
+  <td>1</td>
+  <td>Container Delivery</td>
+  <td>Ref #<br>ADDRESS1<br>ADDRESS2<br>CITY NAME,<br>CANADA<br>628900</td>
+ <td></td>
+  <td></td>
+  </tr></table>
+ <br><br>
+<table width="95%" cellpadding="10" cellspacing="0" border="1" align="center">
+<tr>
+<td width="65%">&nbsp;</td>
+<td align="right">
+<table width="100%">
+<tr>
+<td width="50%"><strong>Total</strong></td>
+<td width="20%">&nbsp;</td>
+<td align="right" width="30%">$0.00</td>
+</tr>
+<tr>
+<td><strong>Payments/</strong></td>
+<td width="30%">&nbsp;</td>
+<td align="right">$</td>
+</tr>
+<tr>
+<td><h3>Balance Due</h3></td>
+<td width="30%">&nbsp;</td>
+<td align="right">$0.00</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><br><br>
+<table width="95%" align="center" border="0">
+<tr>
+<td width="50%">
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td>GST/HST No</td>
+<td>853482867</td>
+</tr>
+</table >
+</td>
+<td width="50%" align="right">
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td>E-mail</td>
+<td>Info@kkhuman.ca</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+			
